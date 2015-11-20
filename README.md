@@ -18,6 +18,10 @@ Clone this repository:
 ```
 git clone https://github.com/chrisJohn404/node-modbus_library_testing
 ```
+Navigate into the repository:
+```
+cd node-modbus_library_testing
+```
 Install the projects dependencies:
 ```
 npm install
