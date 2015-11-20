@@ -2,9 +2,14 @@
 
 This is a simple repository for playing around with nodejs modbus libraries and communicating with a modbus client.  The examples are taylored specifically to using a [LabJack T7](https://labjack.com/products/t7) due to the registers being read and parsed.
 
+
 ## Installing
 1. git clone 'https://github.com/chrisJohn404/node-modbus_library_testing'
 2. npm install
 
 ## Using
-1. npm test
+1. Configure the variable "DEVICE_IP_ADDRESS" in the indes.js file.
+2. "npm test" or "npm start"
+
+## Tested With...
+Confirmed to be working with nodejs 5.0.0 on Windows 10.
