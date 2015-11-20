@@ -16,7 +16,7 @@ Search for more modbus related modules on [npm](https://www.npmjs.com/browse/key
 ### Installing
 Clone this repository:
 ```
-git clone 'https://github.com/chrisJohn404/node-modbus_library_testing'
+git clone https://github.com/chrisJohn404/node-modbus_library_testing
 ```
 Install the projects dependencies:
 ```
