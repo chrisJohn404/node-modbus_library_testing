@@ -8,7 +8,10 @@ This is a simple repository for playing around with nodejs modbus libraries and 
 
 ##### Other interesting npm packeges to explore:
 1. [jsmodbus](https://www.npmjs.com/package/jsmodbus)
-
+2. [modbus-rtu](https://www.npmjs.com/package/modbus-rtu)
+3. [modbus-ws](https://www.npmjs.com/package/modbus-ws)
+4. [modbus](https://www.npmjs.com/package/modbus)
+Search for more modbus related modules on [npm](https://www.npmjs.com/browse/keyword/modbus).
 
 ### Installing
 Clone this repository:
