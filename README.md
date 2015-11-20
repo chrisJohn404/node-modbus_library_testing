@@ -9,9 +9,9 @@ This is a simple repository for playing around with nodejs modbus libraries and 
 
 ## Using
 1. Configure the **DEVICE_IP_ADDRESS** variable in the indes.js file:
-'''javascript
+```javascript
 var DEVICE_IP_ADDRESS = '192.168.1.252';
-'''
+```
 2. "npm test" or "npm start"
 
 ## Tested With...
