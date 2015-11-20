@@ -4,15 +4,24 @@ This is a simple repository for playing around with nodejs modbus libraries and 
 
 
 ## Installing
-1. git clone 'https://github.com/chrisJohn404/node-modbus_library_testing'
-2. npm install
+1. Clone this repository:
+```
+git clone 'https://github.com/chrisJohn404/node-modbus_library_testing'
+```
+2. Install the projects dependencies:
+```
+npm install
+```
 
 ## Using
 1. Configure the **DEVICE_IP_ADDRESS** variable in the indes.js file:
 ```javascript
 var DEVICE_IP_ADDRESS = '192.168.1.252';
 ```
-2. "npm test" or "npm start"
+2. Run the example:
+```
+npm start
+```
 
 ## Tested With...
 Confirmed to be working with nodejs 5.0.0 on Windows 10.
