@@ -6,6 +6,10 @@ This is a simple repository for playing around with nodejs modbus libraries and 
 1. [Modbus-Stack](https://www.npmjs.com/package/modbus-stack) that is used by [iobroker.modbus](https://www.npmjs.com/package/iobroker.modbus)
 2. [Modbus-TCP](https://www.npmjs.com/package/modbus-tcp)
 
+## Other interesting npm packeges to explore:
+1. [jsmodbus](https://www.npmjs.com/package/jsmodbus)
+
+
 ## Installing
 1. Clone this repository:
 ```
