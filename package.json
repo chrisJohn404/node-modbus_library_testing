@@ -1,0 +1,16 @@
+{
+  "name": "node-modbus-stack_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  	"async": "x",
+  	"modbus-tcp": "x",
+    "modbus-stack": "x"
+  }
+}
