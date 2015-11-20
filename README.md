@@ -2,6 +2,9 @@
 
 This is a simple repository for playing around with nodejs modbus libraries and communicating with a modbus client.  The examples are taylored specifically to using a [LabJack T7](https://labjack.com/products/t7) due to the registers being read and parsed.
 
+## Modbus Libraries used:
+1. [Modbus-Stack](https://www.npmjs.com/package/modbus-stack) that is used by [iobroker.modbus](https://www.npmjs.com/package/iobroker.modbus)
+2. [Modbus-TCP](https://www.npmjs.com/package/modbus-tcp)
 
 ## Installing
 1. Clone this repository:
